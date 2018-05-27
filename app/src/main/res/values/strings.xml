@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Get Swoll For Film</string>
+    <string name="grid_image_content_description">Movie poster for each film</string>
+    <string name="details_iv_content_description">View for the movie poster</string>
+    <string name="popularity_option_title">Most Popular</string>
+    <string name="rating_option_title">Highest Rated</string>
+    <string name="average_rating_board">Average Rating:</string>
+    <string name="view_for_the_movie_backdrop">View for the movie backdrop</string>
+</resources>
