@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/review_author_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        tools:text="Gimly"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/review_content_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        tools:text="I'd just like to thank Patty Jenkins for making a DCIThoughtSheWasWithUniverse movie that wasn't fucking garbage.\r\n\r\nIf I'm being completely honest, the two people I went to the cinema to watch _Wonder Woman_ with and I did spend the next two hours after coming out of our screening discussing the various problems with the movie, but we also all agreed on one thing: We still loved it.\r\n\r\nMaybe it's just the rose-coloured glasses of comparison, but I had an excellent time with _Wonder Woman_, and I'm excited to go back to the cinema and watch it, at least one more time.\r\n\r\nIt's the first time I've said that about a DC movie since _The Dark Knight Rises_.\r\n\r\n"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/review_author_tv" />
+</android.support.constraint.ConstraintLayout>

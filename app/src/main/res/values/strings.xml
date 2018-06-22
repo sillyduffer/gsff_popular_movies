@@ -6,4 +6,10 @@
     <string name="rating_option_title">Highest Rated</string>
     <string name="average_rating_board">Average Rating:</string>
     <string name="view_for_the_movie_backdrop">View for the movie backdrop</string>
+    <string name="trailer_button_title">Trailer</string>
+    <string name="user_reviews_button_title">User Reviews</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_button_content_description">Favorite button to mark movie as favorite</string>
 </resources>
